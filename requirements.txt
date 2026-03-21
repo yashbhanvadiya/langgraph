@@ -1,2 +1,7 @@
 ipykernel
 pydantic
+langgraph
+langchain
+langchain-core
+langchain-community
+ipython
