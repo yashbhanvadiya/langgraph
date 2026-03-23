@@ -5,3 +5,7 @@ langchain
 langchain-core
 langchain-community
 ipython
+python-dotenv
+langchain-groq
+arxiv
+wikipedia
