@@ -10,3 +10,10 @@ langchain-groq
 arxiv
 wikipedia
 langchain-openai
+pymupdf
+transformers
+Pillow
+torch
+numpy
+scikit-learn
+faiss-cpu
